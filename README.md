@@ -1,6 +1,5 @@
 Hey, I'm Nurkanat from Kazakhstan<br>interested in  app development (UIKit, SwiftUI)<br>shoot me an email: klimov.nurkanat@gmail.com<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurkanatklimov) 
 
