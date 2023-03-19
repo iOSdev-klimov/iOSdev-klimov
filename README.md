@@ -1,6 +1,5 @@
 # Readme
 
-# 💫 About Me:
 Hey, I'm Nurkanat from Kazakhstan<br>interested in  app development (UIKit, SwiftUI)<br>shoot me an email: klimov.nurkanat@gmail.com<br>
 
 
